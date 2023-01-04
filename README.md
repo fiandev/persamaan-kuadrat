@@ -1,7 +1,7 @@
 # quadratic equation
 program ini dibuat untuk menghitung persamaan kuadrat dengan cepat dan mudah.
 
-## bentuk umum persam kuadrat
+## bentuk umum persamaan kuadrat
 
 > ax² + bx + c = 0
 
