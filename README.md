@@ -2,7 +2,8 @@
 program ini dibuat untuk menghitung persamaan kuadrat dengan cepat dan mudah.
 
 ## bentuk umum persam kuadrat
-<img style="width: 10rem" src="https://www.gstatic.com/education/formulas2/472522532/id/quadratic_equation.svg" alt="quadratic equation" />
+
+> ax² + bx + c = 0
 
 ## mencari x1 dan x2 dari persamaan kuadrat
 contoh soal : carilah akar² dari persamaan kuadrat berikut:
