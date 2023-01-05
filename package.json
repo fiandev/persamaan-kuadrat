@@ -1,8 +1,12 @@
 {
+  "description": "a module for count quadratic equation fast and quickly",
+  "repository": "https://github.com/fiandev/persamaan-kuadrat.git",
+  "bugs": "https://github.com/fiandev/persamaan-kuadrat/issues",
+  "homepage": "https://github.com/fiandev/persamaan-kuadrat#readme",
   "dependencies": {
     "require-all": "^3.0.0"
   },
-  "name": "mtk",
+  "name": "persamaan-kuadrat",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
@@ -12,7 +16,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "fiandev",
   "license": "ISC",
   "description": ""
 }

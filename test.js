@@ -9,15 +9,5 @@ const {
   topPoint
 } = require("./index")
 
-// let a = fromRootToEquation(1, 4)
-let abc = ABC ({
-  a: 1,
-  b: 1,
-  c: -2
-})
-
-console.log(abc)
-console.log(fromRootToEquation(5, -2))
-console.log(
-  //x.coordinates
-)
+let a = fromRootToEquation(1, -6)
+console.log(a)
