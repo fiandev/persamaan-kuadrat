@@ -1,4 +1,9 @@
-# quadratic equation
+# persamaan kuadrat
+
+![version](https://img.shields.io/npm/v/persamaan-kuadrat?label=persamaan-kuadrat)
+![size](https://img.shields.io/bundlephobia/min/persamaan-kuadrat?label=size)
+![persamaan-kuadrat](https://img.shields.io/npm/dw/persamaan-kuadrat)
+
 program ini dibuat untuk menghitung persamaan kuadrat dengan cepat dan mudah.
 
 ## cara penggunaan
